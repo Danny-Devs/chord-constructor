@@ -1,5 +1,7 @@
 # chordgame
 
+Play the game at https://chordgame-36d67.firebaseapp.com/ !
+
 ## Project setup
 ```
 npm install
